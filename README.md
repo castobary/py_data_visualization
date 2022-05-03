@@ -13,6 +13,11 @@ We’ll use Matplotlib to make simple plots, such as line graphs and scatter plo
 
 We’ll also use a package called Plotly, which creates visualizations that work well on digital devices. Plotly generates visualizations that automatically resize to fit a variety of display devices. These visualizations can also include a number of interactive features, such as emphasizing particular aspects of the data set when users hover over different parts of the visualization. We’ll use Plotly to analyze the results of rolling dice.
 
+This is comprised of the following parts 
+
+1. **matplot101**  This covers the basics of using matplotlib and how to draw a simple line chart using matplotlib
+2. **matplot102**  This covers how to draw a scatter plot, coloring a plot and saving a plot 
+
 **Source** *Python Crash Course 2nd Edition
 A Hands-On, Project-Based Introduction to Programming
 by Eric Matthes*
