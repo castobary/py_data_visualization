@@ -16,7 +16,8 @@ We’ll also use a package called Plotly, which creates visualizations that work
 This is comprised of the following parts 
 
 1. **matplot101**  This covers the basics of using matplotlib and how to draw a simple line chart using matplotlib
-2. **matplot102**  This covers how to draw a scatter plot, coloring a plot and saving a plot 
+2. **matplot102**  This covers how to draw a scatter plot, coloring a plot and saving a plot
+3. **matplot103**  This covers on how to create a random walk plot and depends on the random walk class 
 
 **Source** *Python Crash Course 2nd Edition
 A Hands-On, Project-Based Introduction to Programming
