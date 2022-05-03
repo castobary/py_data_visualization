@@ -11,6 +11,8 @@ Fortunately, you don’t need a supercomputer to visualize complex data. With Py
 People use Python for data-intensive work in genetics, climate research, political and economic analysis, and much more. Data scientists have written an impressive array of visualization and analysis tools in Python, many of which are available to you as well. One of the most popular tools is Matplotlib, a mathematical plotting library.
 We’ll use Matplotlib to make simple plots, such as line graphs and scatter plots. Then we’ll create a more interesting data set based on the concept of a random walk—a visualization generated from a series of random decisions.
 
+We’ll also use a package called Plotly, which creates visualizations that work well on digital devices. Plotly generates visualizations that automatically resize to fit a variety of display devices. These visualizations can also include a number of interactive features, such as emphasizing particular aspects of the data set when users hover over different parts of the visualization. We’ll use Plotly to analyze the results of rolling dice.
+
 **Source** *Python Crash Course 2nd Edition
 A Hands-On, Project-Based Introduction to Programming
 by Eric Matthes*
